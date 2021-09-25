@@ -1,0 +1,36 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.flex-header{
+    /*background-color:#e8e6e1;*/
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+.flex-intro{
+     text-align: center;
+     padding-top: 10px;
+     font-family:'Times New Roman', Times, serif;
+}
+.style-name{
+    /*font-family:'Trebuchet MS', sans-serif;*/
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold !important;
+    
+}
+.pos-f-t{
+    
+    color: white;
+    background-color: white;
+}
+.intro-owner{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+}
+    
+.position-fixed{
+    text-align: center;
+    padding: 10px;
+}
+ 

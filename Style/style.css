@@ -1,91 +1,85 @@
-p{
-    font-family: 'Times New Roman', Times, serif;
+p {
+  font-family: "Times New Roman", Times, serif;
 }
-.flex-header{
-    /*background-color:#e8e6e1;*/
-    text-align: center;
-    color: black;
-    padding: 10px;
+.flex-header {
+  /*background-color:#e8e6e1;*/
+  text-align: center;
+  color: black;
+  padding: 10px;
 }
-.flex-intro{
-     text-align: center;
-     padding-top: 10px;
-     font-family:'Times New Roman', Times, serif;
+.flex-intro {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Times New Roman", Times, serif;
 }
-.style-name{
-    /*font-family:'Trebuchet MS', sans-serif;*/
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold !important;
-    
+.style-name {
+  /*font-family:'Trebuchet MS', sans-serif;*/
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold !important;
 }
-.pos-f-t{
-    
-    color: white;
-    background-color: white;
+.pos-f-t {
+  color: white;
+  background-color: white;
 }
-.intro-owner{
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    padding: 20px;
-}
-    
-.position-fixed{
-    text-align: center;
-    padding: 10px;
+.intro-owner {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 20px;
 }
 
-.social-panel{
-    background-color:#e9ecf0;
+.position-fixed {
+  text-align: center;
+  padding: 10px;
 }
-.city-collage{
-    height: 500px;
+
+.social-panel {
+  background-color: #e9ecf0;
 }
-.footer-panel
-{
-    background-color: black;
-    color: white;
-    /*height: 400px;*/
-    font-family: 'Times New Roman', Times, serif;
-    padding: 20px;
-    text-align: justify;
+.city-collage {
+  height: 500px;
 }
-.footer-heading{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+.footer-panel {
+  background-color: black;
+  color: white;
+  /*height: 400px;*/
+  font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+  text-align: justify;
 }
-.footer-content{
-    text-align: justify;
-    font-size: 15px;
-    color: white;
+.footer-heading {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
 }
-.social-icon
-{
-    font-size: 30px;
-    color: orange;
-    padding: 15px;
+.footer-content {
+  text-align: justify;
+  font-size: 15px;
+  color: white;
 }
-a{
-    text-decoration: none !important;
-    color: black !important;
+.social-icon {
+  font-size: 30px;
+  color: orange;
+  padding: 15px;
 }
-.hosted-panel{
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+a {
+  text-decoration: none !important;
+  color: black !important;
 }
-.login-panel{
-    text-align: center;
-    padding-top:100px;
-    color: black !important;
+.hosted-panel {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.login-panel {
+  position: absolute;
+  right: 0px;
+  top:0px;
+  padding: 20px;
 
 }
 .placeicon {
-    font-family: fontawesome
+  font-family: fontawesome;
 }
 
 .custom-control-label::before {
-    background-color: #dee2e6;
-    border: #dee2e6
+  background-color: #dee2e6;
+  border: #dee2e6;
 }
-
-
-

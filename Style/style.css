@@ -64,9 +64,28 @@ p{
     color: orange;
     padding: 15px;
 }
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
 .hosted-panel{
-    padding: 10px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    height: 40px;
 }
+.login-panel{
+    text-align: center;
+    padding-top:100px;
+    color: black !important;
+
+}
+.placeicon {
+    font-family: fontawesome
+}
+
+.custom-control-label::before {
+    background-color: #dee2e6;
+    border: #dee2e6
+}
+
+
+

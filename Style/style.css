@@ -33,4 +33,40 @@ p{
     text-align: center;
     padding: 10px;
 }
- 
+
+.social-panel{
+    background-color:#e9ecf0;
+}
+.city-collage{
+    height: 500px;
+}
+.footer-panel
+{
+    background-color: black;
+    color: white;
+    /*height: 400px;*/
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: justify;
+}
+.footer-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.footer-content{
+    text-align: justify;
+    font-size: 15px;
+    color: white;
+}
+.social-icon
+{
+    font-size: 30px;
+    color: orange;
+    padding: 15px;
+}
+.hosted-panel{
+    padding: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 40px;
+}

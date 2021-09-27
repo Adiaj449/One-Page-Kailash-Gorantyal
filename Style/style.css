@@ -26,7 +26,22 @@ p {
   text-align: center;
   padding: 20px;
 }
-
+.navigation-panel{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    background-color:#ffaf6b;
+    font-size: 15px;
+}
+.menu,a 
+{
+    padding-right:22px !important;
+}
+#mobile-view{
+    display: none;
+}
 .position-fixed {
   text-align: center;
   padding: 10px;
@@ -82,4 +97,20 @@ a {
 .custom-control-label::before {
   background-color: #dee2e6;
   border: #dee2e6;
+}
+
+.owner-profile{
+  position: absolute;
+  left: 0px;
+  top:0px;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+  border-radius: 3px !important;
+}
+
+@media screen and (max-width: 500px) {
+    #mobile-view {
+        display:block;
+    }
 }
